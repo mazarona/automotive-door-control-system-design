@@ -76,9 +76,8 @@ $$
 
 2. 
 $$
-\text{\#frames/sec} = \frac{1000}{5} + \frac{1000}{10} + \frac{1000}{20} = 350
+\text{frames per second} = \frac{1000}{5} + \frac{1000}{10} + \frac{1000}{20} = 350
 $$
-
 
 3. 
 $$
